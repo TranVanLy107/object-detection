@@ -1,0 +1,24 @@
+item {
+  id: 1
+  name: 'container'
+}
+
+item {
+  id: 2
+  name: 'xe con'
+}
+
+item {
+  id: 3
+  name: 'xe khach'
+}
+
+item {
+  id: 4
+  name: 'xe tai'
+}
+
+item {
+  id: 5
+  name: 'others'
+}
